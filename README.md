@@ -3,6 +3,4 @@
 node + express + this code = lightweight api boilerplate
 personal use code but you might find it useful
 
-using ecma6
-
-
+using ECMA6
